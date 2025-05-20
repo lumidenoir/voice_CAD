@@ -28,7 +28,7 @@ This project is a voice-enabled CAD (Computer-Aided Design) system that uses a R
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/voice-enabled-cad.git
+   git clone https://github.com/lumidenoir/voice_CAD.git
    cd voice-enabled-cad
    ```
 
